@@ -1,7 +1,7 @@
 # TPC-Installer
 A simple script to execute the terminal commands with a specific time..
 
-# Download command in terminal: git clone http://github.com/
+# Download command in terminal: git clone https://github.com/abdulmuaz97/TPC-Installer.git
 
 # How to use:
 - First open terminal in the TPC-Installer.py location.
