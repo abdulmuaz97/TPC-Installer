@@ -19,7 +19,7 @@
 
 >echo Hello World
 >touch Created_New_File_Using_TPC_Installer.txt
->echo Created a new file..go check ti up.
+>echo Created a new file..go check it up.
 
 
 # Comment.
